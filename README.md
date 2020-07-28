@@ -1,3 +1,5 @@
+Código para solução do desafio proposto em https://osprogramadores.com/desafios/d06/
+
 Implementeção muito interessante, primeiro o algoritmo testava todas as palavras da lista, se achasse uma que se encaixa na sentenca , excluia as letras em comum e continuava a busca.
 
 A segunda implementação ordenava as palavras por tamanho e só pesquisava até que aquelas de tamanho igual ao que restou dasentença.
